@@ -1,4 +1,4 @@
  x = 2
- puts x
+ puts hohoho
  puts x
  pits 1
